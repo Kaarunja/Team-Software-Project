@@ -3,10 +3,14 @@
 Team Members
 ------------
 
-Vishwa Sasanka/n
+Vishwa Sasanka
+
 Kaarunja
+
 Prashanth
+
 Lakmi
+
 Mithusha
 
 
