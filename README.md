@@ -3,7 +3,7 @@
 Team Members
 ------------
 
-Vishwa Sasanka
+Vishwa Sasanka/n
 Kaarunja
 Prashanth
 Lakmi
